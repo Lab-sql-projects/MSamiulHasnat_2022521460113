@@ -32,7 +32,7 @@ The database schema is designed as follows:
 
 ## File Structure
 
-
+![alt text](image.png)
 
 ## Installation
 
